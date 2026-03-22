@@ -16,3 +16,11 @@ Este projeto foi desenvolvido para otimizar a análise de dados de Estações R�
 
 ## 🧪 Como Testar
 Para fins de demonstração e conformidade com a LGPD, utilize o script `gerador_dados_teste.py` incluído neste repositório para criar uma planilha de exemplo.
+
+## 🚀 Como Executar
+1. Instale as dependências: `pip install -r requirements.txt`
+2. Execute o gerador de testes: `python gerador_dados_teste.py`
+3. Rode o analisador: `python main.py`
+
+## 👨‍💻 Autor
+**Roger de Almeida Ferreira** - Engenheiro de Computação e soluções de Inteligência.
